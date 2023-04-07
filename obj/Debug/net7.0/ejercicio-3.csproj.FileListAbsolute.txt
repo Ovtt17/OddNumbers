@@ -1,0 +1,15 @@
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\Clase Práctica de la Unidad I Introducción a la POO y el lenguaje C#\ejercicio-3\bin\Debug\net7.0\ejercicio-3.exe
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\Clase Práctica de la Unidad I Introducción a la POO y el lenguaje C#\ejercicio-3\bin\Debug\net7.0\ejercicio-3.deps.json
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\Clase Práctica de la Unidad I Introducción a la POO y el lenguaje C#\ejercicio-3\bin\Debug\net7.0\ejercicio-3.runtimeconfig.json
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\Clase Práctica de la Unidad I Introducción a la POO y el lenguaje C#\ejercicio-3\bin\Debug\net7.0\ejercicio-3.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\Clase Práctica de la Unidad I Introducción a la POO y el lenguaje C#\ejercicio-3\bin\Debug\net7.0\ejercicio-3.pdb
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\Clase Práctica de la Unidad I Introducción a la POO y el lenguaje C#\ejercicio-3\obj\Debug\net7.0\ejercicio-3.csproj.AssemblyReference.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\Clase Práctica de la Unidad I Introducción a la POO y el lenguaje C#\ejercicio-3\obj\Debug\net7.0\ejercicio-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\Clase Práctica de la Unidad I Introducción a la POO y el lenguaje C#\ejercicio-3\obj\Debug\net7.0\ejercicio-3.AssemblyInfoInputs.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\Clase Práctica de la Unidad I Introducción a la POO y el lenguaje C#\ejercicio-3\obj\Debug\net7.0\ejercicio-3.AssemblyInfo.cs
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\Clase Práctica de la Unidad I Introducción a la POO y el lenguaje C#\ejercicio-3\obj\Debug\net7.0\ejercicio-3.csproj.CoreCompileInputs.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\Clase Práctica de la Unidad I Introducción a la POO y el lenguaje C#\ejercicio-3\obj\Debug\net7.0\ejercicio-3.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\Clase Práctica de la Unidad I Introducción a la POO y el lenguaje C#\ejercicio-3\obj\Debug\net7.0\refint\ejercicio-3.dll
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\Clase Práctica de la Unidad I Introducción a la POO y el lenguaje C#\ejercicio-3\obj\Debug\net7.0\ejercicio-3.pdb
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\Clase Práctica de la Unidad I Introducción a la POO y el lenguaje C#\ejercicio-3\obj\Debug\net7.0\ejercicio-3.genruntimeconfig.cache
+C:\Users\Ovett\Documents\semestre-5\POO\parcial-1\Clase Práctica de la Unidad I Introducción a la POO y el lenguaje C#\ejercicio-3\obj\Debug\net7.0\ref\ejercicio-3.dll
